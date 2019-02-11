@@ -52,8 +52,9 @@ class App extends Component {
               <p> <b> {person.name}</b> says : {person.message}</ p>
               <br></ br>
                 <a href={person.url}>
-                  <img src={person.iconURL} alt ={person.name}></img>
+                  <img src={person.iconUrl} alt ={person.name} ></img>
                 </a>
+                Click on the pic of {person.name} to see their website!
             </Popup>
           </Marker>
         )}
