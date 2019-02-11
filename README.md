@@ -28,7 +28,7 @@ $ yarn start
  
 A window should eventually open up in your chrome window. If it does not, you should still be able to reach the app by typing "localhost:3000" into your open browser. 
 
-(a note about the second challenge, I'm really having difficulty getting the images to show up. When I inspect the pages, the src of the images seems to be right, but I do not know why it is not showing up. Honestly, if you know why, I'd really appreciate if you could explain why that is. )
+(a note about the second challenge, I'm really having difficulty getting the images to show up. When I inspect the pages, the src of the images just doesn't show up, and I do not know why. Honestly, if you could explain it, I'd really appreciate it. )
 
 Hope you enjoy! 
 -Donia 
