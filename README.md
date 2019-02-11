@@ -2,7 +2,7 @@
 
 To run either of my solutions for the challenges, first clone this repo
 ```
-$ git clone <repo cloning link
+$ git clone <repo cloning link>
 ```
 
 ### Instructions on Running the 1st Challenge Site
